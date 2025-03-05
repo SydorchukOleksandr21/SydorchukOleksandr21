@@ -24,3 +24,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sydorchukoleksandr21&show_icons=true&locale=en&layout=compact" alt="sydorchukoleksandr21" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sydorchukoleksandr21&" alt="sydorchukoleksandr21" /></p>
+
